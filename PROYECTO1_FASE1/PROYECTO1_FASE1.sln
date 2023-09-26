@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Proyecto1", "Proyecto1\Proyecto1.dtproj", "{05737F5A-FE86-4296-8714-939E490EEF85}"
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "PROYECTO1_FASE1", "PROYECTO1_FASE1\PROYECTO1_FASE1.dtproj", "{2E16C51E-5CAE-457E-BD90-68979EB9808B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{05737F5A-FE86-4296-8714-939E490EEF85}.Development|Default.ActiveCfg = Development
-		{05737F5A-FE86-4296-8714-939E490EEF85}.Development|Default.Build.0 = Development
+		{2E16C51E-5CAE-457E-BD90-68979EB9808B}.Development|Default.ActiveCfg = Development
+		{2E16C51E-5CAE-457E-BD90-68979EB9808B}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5005C58A-56DE-4EEB-8E26-9FAF63800BB1}
+		SolutionGuid = {C46544D7-13A7-44F8-B196-C38FB674F3EE}
 	EndGlobalSection
 EndGlobal
