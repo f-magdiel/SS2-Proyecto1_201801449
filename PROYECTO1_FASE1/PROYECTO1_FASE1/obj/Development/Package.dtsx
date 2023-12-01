@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="9/25/2023 10:30:56 PM"
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABqgvuw0VaW3fm90B4Q6pQHwPsXGXfG1sa9Nik8lce+dwAAAAAOgAAAAAIAACAAAADcLHQg4TSOmmW+DirHuPuIHfMMF3Jbz4vh6bVQPpMiyhAAAACQmx+hO4VSvhFwR+NogWJCQAAAAKhg+YuaXEyzGJq0eJrDvL24oVZHFgaWnmgLp0mb5ttWTEvi6wDhEdvUThLqR3/VmjdT1ydBnztxPrwmaf/2u2s</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADkfFvDmnOZZ9ZiSlTkhdCMeNfZbgCAiwXxZSpxP+CvBQAAAAAOgAAAAAIAACAAAAAft0R8zW2LywTLowe1OJPuAs0H+C8gUq0XIC2vKL8wexAAAACuHfh7/uN8e8h8oljqQv7OQAAAAHvsQ5cOWIcd4mhPRpQfrHXSF8D8Cdhmo0iW7R7lZRceqDwwYxP3QgRhZl99qWiwMMdPbPuybo1W9tMYLAPD/9I</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACAO+itTdV5HclKUqZ7K/kmigMrjjNcjrX+ZZWVoiNK9wAAAAAOgAAAAAIAACAAAAARFrTh1ElJvC7vZ8a3zzZy02fhxQhWGSQn1e1gIoYjUxAAAAC1UE8MHbxC5DVPWXWgTb/OQAAAAMO0+gVMJ8puP7zYz4kN/ETx8Q4CVg8SuMJ12Vz1icDMrE+JUa59Go8hpxn0SeaDerOjmkr3tEv3KugPWoczV84</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABf6LQ3pNqdOuhJaPwclr6yWSSy8VLOQ5YBNvak1TWXzAAAAAAOgAAAAAIAACAAAADIrA2rAMqRUkMs6TA0z8Hu4CJu++vm+9btMimu2Pn7rBAAAAB32MxuaecIs3Gk4hPoHtB+QAAAAMI6waDrNCcNFQ31eH6B1wNAxRJvOmvdHjlWlrbBHSyb+vgGjqHwziuqSag40Uv0l8MPi7ZvhMVRoe4Ge6gV30A</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -59,7 +59,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADUYdfMZzxVU12jGe/BVrD7ZASL73/wBD3qfWxv1uXV+gAAAAAOgAAAAAIAACAAAAC/H4FKbjUfpbZrUyWxQvabKCWDJ3FxgGkYF/vsudSwGiAAAACn0PKEOImCN+r+ZjjsHCuUMxQBQvDEBNj+kZ37Oen5JEAAAADGZiz0NsaYgappacb4jwzwyvkhadWJ4+hKYyJgKvkJ8diN7R1uvraUKSFnLuIOLThatYse1s0XzQ9rDYzmBUXn</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAfOxs3fSX1qwJhPaN4jo4vknWJa0HVMNKOSfG9axLbywAAAAAOgAAAAAIAACAAAADDjdEiLPbu+JZ17bIZzleZgQrH6m6laCuCBS76WVEUlSAAAABeWtF6JqULj21rAT8/+se4otm1KCO0aIHjLPrKM8Sd9kAAAAB+TXJ7NISEwpRslVW+yde9eSln4ZQakLg32jo0SrFQnsIWCGt3lnbnGFiQgF0yw3AjknCElm2TxA2vVUrPWvVA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -74,7 +74,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADKhiSXUGUzCPacP/PNOPOcwemSghbotEEOuYue+GCLFAAAAAAOgAAAAAIAACAAAAClrh/Ch7ojrELYn6hLYySC7Na/zqmouTY6e/JOiOUuXCAAAADCCfCZHef9EGIxKWMXvYlmfwnyq3cuv9W49Z3FvNZ02UAAAACarbOo1qoKOlFzw05ONiTm567Im9WspS9j6hh+/7TyrdhoNds5+8sHQwcCrPRwRIVECrX9gI9CSvZbORLX3NBj</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEKbaOjFpDEa7mRFGUvNDxAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAi2AOdg0Lb3N9WtTXeaEzN5d5JXP8OJ/gCIpVm96KrNgAAAAAOgAAAAAIAACAAAADmfBtZIsTqUEBQNT2yKbvNYiurDzxZqUt8ZDY1dHOQUCAAAACeNCSQYGLhMatq1r9hOM1lOX5BAA1dKl0JBOO2303eJkAAAABsGlt5ytkAvGC+SnQnLrMDHal5wVClQPVbsInVpPo7/3/upSK6WLp94Agkwf650gp1EA17SiGlh1ebqG2LsBaj</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -30209,14 +30209,14 @@
               startId="Package\Data Flow Task PROCESO ETL\Producto (compra).Outputs[Derived Column Output]" />
             <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 11]"
-              endId="Package\Data Flow Task PROCESO ETL\Proveedor (compra).Inputs[Derived Column Input]"
-              name="Multicast Output 1"
-              startId="Package\Data Flow Task PROCESO ETL\Multicast.Outputs[Multicast Output 1]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 1]"
               endId="Package\Data Flow Task PROCESO ETL\Sort 6.Inputs[Sort Input]"
               name="Multicast Output 1"
               startId="Package\Data Flow Task PROCESO ETL\Multicast 1.Outputs[Multicast Output 1]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 1]"
+              endId="Package\Data Flow Task PROCESO ETL\Proveedor (compra).Inputs[Derived Column Input]"
+              name="Multicast Output 1"
+              startId="Package\Data Flow Task PROCESO ETL\Multicast.Outputs[Multicast Output 1]" />
             <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 2]"
               endId="Package\Data Flow Task PROCESO ETL\Sucursarl (Venta).Inputs[Derived Column Input]"
@@ -30254,39 +30254,39 @@
               startId="Package\Data Flow Task PROCESO ETL\Multicast 1.Outputs[Multicast Output 5]" />
             <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull6]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 2.Inputs[Sort Input]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 9.Inputs[Sort Input]"
               name="NotNull"
-              startId="Package\Data Flow Task PROCESO ETL\Conditional Split.Outputs[NotNull]" />
+              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 4.Outputs[NotNull]" />
             <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull5]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 8.Inputs[Sort Input]"
-              name="NotNull"
-              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 5.Outputs[NotNull]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull3]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 3.Inputs[Sort Input]"
-              name="NotNull"
-              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 2.Outputs[NotNull]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull4]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 10.Inputs[Sort Input]"
-              name="NotNull"
-              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 6.Outputs[NotNull]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull1]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 5.Inputs[Sort Input]"
-              name="NotNull"
-              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 3.Outputs[NotNull]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull]"
               endId="Package\Data Flow Task PROCESO ETL\Sort 7.Inputs[Sort Input]"
               name="NotNull"
               startId="Package\Data Flow Task PROCESO ETL\Conditional Split 1.Outputs[NotNull]" />
             <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull2]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 9.Inputs[Sort Input]"
+              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull3]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 10.Inputs[Sort Input]"
               name="NotNull"
-              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 4.Outputs[NotNull]" />
+              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 6.Outputs[NotNull]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull4]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 5.Inputs[Sort Input]"
+              name="NotNull"
+              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 3.Outputs[NotNull]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull1]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 8.Inputs[Sort Input]"
+              name="NotNull"
+              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 5.Outputs[NotNull]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 2.Inputs[Sort Input]"
+              name="NotNull"
+              startId="Package\Data Flow Task PROCESO ETL\Conditional Split.Outputs[NotNull]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[NotNull2]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 3.Inputs[Sort Input]"
+              name="NotNull"
+              startId="Package\Data Flow Task PROCESO ETL\Conditional Split 2.Outputs[NotNull]" />
             <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[ODBC Source Output]"
               endId="Package\Data Flow Task PROCESO ETL\Data Conversion.Inputs[Data Conversion Input]"
@@ -30309,94 +30309,94 @@
               startId="Package\Data Flow Task PROCESO ETL\Origen de ADO NET (Venta).Outputs[Salida de origen de ADO NET]" />
             <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output5]"
-              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Vendedor.Inputs[Entrada de destino de ADO NET]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 8.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output12]"
-              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET.Inputs[Entrada de destino de ADO NET]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 2.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output11]"
-              endId="Package\Data Flow Task PROCESO ETL\Union All Sucursal.Inputs[Union All Input 2]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 10.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output10]"
-              endId="Package\Data Flow Task PROCESO ETL\Union All Sucursal.Inputs[Union All Input 1]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 5.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output9]"
-              endId="Package\Data Flow Task PROCESO ETL\Union All 4.Inputs[Union All Input 2]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 3.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output8]"
               endId="Package\Data Flow Task PROCESO ETL\Union All 4.Inputs[Union All Input 1]"
               name="Sort Output"
               startId="Package\Data Flow Task PROCESO ETL\Sort 9.Outputs[Sort Output]" />
             <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output7]"
-              endId="Package\Data Flow Task PROCESO ETL\Union All Fecha.Inputs[Union All Input 2]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 6.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output3]"
-              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Cliente.Inputs[Entrada de destino de ADO NET]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 7.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output4]"
-              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Sucursal.Inputs[Entrada de destino de ADO NET]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 11.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output13]"
-              endId="Package\Data Flow Task PROCESO ETL\Union All Fecha.Inputs[Union All Input 1]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 1.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output2]"
-              endId="Package\Data Flow Task PROCESO ETL\Data Conversion 3.Inputs[Data Conversion Input]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 4.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output1]"
-              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Fecha.Inputs[Entrada de destino de ADO NET]"
-              name="Sort Output"
-              startId="Package\Data Flow Task PROCESO ETL\Sort 12.Outputs[Sort Output]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output]"
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output12]"
               endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Producto.Inputs[Entrada de destino de ADO NET]"
               name="Sort Output"
               startId="Package\Data Flow Task PROCESO ETL\Sort 13.Outputs[Sort Output]" />
             <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output6]"
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output11]"
+              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Fecha.Inputs[Entrada de destino de ADO NET]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 12.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output10]"
+              endId="Package\Data Flow Task PROCESO ETL\Data Conversion 3.Inputs[Data Conversion Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 4.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output9]"
+              endId="Package\Data Flow Task PROCESO ETL\Union All Fecha.Inputs[Union All Input 1]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 1.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output8]"
+              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Sucursal.Inputs[Entrada de destino de ADO NET]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 11.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output7]"
+              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Cliente.Inputs[Entrada de destino de ADO NET]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 7.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output3]"
+              endId="Package\Data Flow Task PROCESO ETL\Union All Sucursal.Inputs[Union All Input 1]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 5.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output4]"
+              endId="Package\Data Flow Task PROCESO ETL\Union All 4.Inputs[Union All Input 2]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 3.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output13]"
               endId="Package\Data Flow Task PROCESO ETL\Data Conversion 1.Inputs[Data Conversion Input]"
               name="Sort Output"
               startId="Package\Data Flow Task PROCESO ETL\Sort.Outputs[Sort Output]" />
             <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output2]"
+              endId="Package\Data Flow Task PROCESO ETL\Union All Sucursal.Inputs[Union All Input 2]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 10.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output1]"
+              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET.Inputs[Entrada de destino de ADO NET]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 2.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output]"
+              endId="Package\Data Flow Task PROCESO ETL\Destino de ADO NET - Vendedor.Inputs[Entrada de destino de ADO NET]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 8.Outputs[Sort Output]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Sort Output6]"
+              endId="Package\Data Flow Task PROCESO ETL\Union All Fecha.Inputs[Union All Input 2]"
+              name="Sort Output"
+              startId="Package\Data Flow Task PROCESO ETL\Sort 6.Outputs[Sort Output]" />
+            <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 12]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 11.Inputs[Sort Input]"
-              name="Union All Output 1"
-              startId="Package\Data Flow Task PROCESO ETL\Union All Sucursal.Outputs[Union All Output 1]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 13]"
-              endId="Package\Data Flow Task PROCESO ETL\Sort 13.Inputs[Sort Input]"
-              name="Union All Output 1"
-              startId="Package\Data Flow Task PROCESO ETL\Union All 4.Outputs[Union All Output 1]" />
-            <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 1]"
               endId="Package\Data Flow Task PROCESO ETL\Sort.Inputs[Sort Input]"
               name="Union All Output 1"
               startId="Package\Data Flow Task PROCESO ETL\Union All (Compra).Outputs[Union All Output 1]" />
             <path
-              refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 11]"
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 13]"
               endId="Package\Data Flow Task PROCESO ETL\Sort 4.Inputs[Sort Input]"
               name="Union All Output 1"
               startId="Package\Data Flow Task PROCESO ETL\Union All (Venta).Outputs[Union All Output 1]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 1]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 11.Inputs[Sort Input]"
+              name="Union All Output 1"
+              startId="Package\Data Flow Task PROCESO ETL\Union All Sucursal.Outputs[Union All Output 1]" />
+            <path
+              refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 11]"
+              endId="Package\Data Flow Task PROCESO ETL\Sort 13.Inputs[Sort Input]"
+              name="Union All Output 1"
+              startId="Package\Data Flow Task PROCESO ETL\Union All 4.Outputs[Union All Output 1]" />
             <path
               refId="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 14]"
               endId="Package\Data Flow Task PROCESO ETL\Sort 12.Inputs[Sort Input]"
@@ -30414,7 +30414,7 @@
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="MYSQL - Script llenar tabla pivote compra"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -30423,36 +30423,6 @@
           VSTAMinorVersion="0"
           Language="CSharp"
           ReadOnlyVariables="User::Delimitador,User::Extension_compra,User::FolderError,User::FolderOrigen_MySql,User::TablaDestino_compra">
-          <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_eb983cc4cef94152a617c7d6b7eaeff1")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_eb983cc4cef94152a617c7d6b7eaeff1")]
-[assembly: AssemblyCopyright("Copyright @  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -30572,6 +30542,41 @@ using System.Runtime.CompilerServices;
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
 </root>]]></ProjectItem>
+          <ProjectItem
+            Name="packages.config"
+            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="Portable.BouncyCastle" version="1.9.0" targetFramework="net472" />
+</packages>]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_eb983cc4cef94152a617c7d6b7eaeff1.Properties.Settings.get_Default():ST_eb983cc4cef94152a617c7d6b7eaeff1.Properties.Sett" +
+    "ings")]
+
+namespace ST_eb983cc4cef94152a617c7d6b7eaeff1.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
           <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -30736,28 +30741,6 @@ namespace ST_eb983cc4cef94152a617c7d6b7eaeff1
 	}
 }]]></ProjectItem>
           <ProjectItem
-            Name="Project"
-            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
-<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
-  <msb:PropertyGroup>
-    <msb:CodeName>ST_eb983cc4cef94152a617c7d6b7eaeff1</msb:CodeName>
-    <msb:Language>msBuild</msb:Language>
-    <msb:DisplayName>ST_eb983cc4cef94152a617c7d6b7eaeff1</msb:DisplayName>
-    <msb:ProjectId>{031F16F9-1885-4A12-AA5E-0F1735D72D92}</msb:ProjectId>
-  </msb:PropertyGroup>
-  <msb:ItemGroup>
-    <msb:Project Include="ST_eb983cc4cef94152a617c7d6b7eaeff1.csproj" />
-    <msb:File Include="Properties\Resources.resx" />
-    <msb:File Include="Properties\Settings.settings" />
-    <msb:File Include="Properties\AssemblyInfo.cs" />
-    <msb:File Include="Properties\Resources.Designer.cs" />
-    <msb:File Include="Properties\Settings.Designer.cs" />
-    <msb:File Include="packages.config" />
-    <msb:File Include="app.config" />
-    <msb:File Include="ScriptMain.cs" />
-  </msb:ItemGroup>
-</c:Project>]]></ProjectItem>
-          <ProjectItem
             Name="app.config"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <configuration>
@@ -30879,40 +30862,57 @@ namespace ST_eb983cc4cef94152a617c7d6b7eaeff1
   </ProjectExtensions>
 </Project>]]></ProjectItem>
           <ProjectItem
-            Name="packages.config"
-            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
-<packages>
-  <package id="Portable.BouncyCastle" version="1.9.0" targetFramework="net472" />
-</packages>]]></ProjectItem>
+            Name="Project"
+            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
+  <msb:PropertyGroup>
+    <msb:CodeName>ST_eb983cc4cef94152a617c7d6b7eaeff1</msb:CodeName>
+    <msb:Language>msBuild</msb:Language>
+    <msb:DisplayName>ST_eb983cc4cef94152a617c7d6b7eaeff1</msb:DisplayName>
+    <msb:ProjectId>{031F16F9-1885-4A12-AA5E-0F1735D72D92}</msb:ProjectId>
+  </msb:PropertyGroup>
+  <msb:ItemGroup>
+    <msb:Project Include="ST_eb983cc4cef94152a617c7d6b7eaeff1.csproj" />
+    <msb:File Include="Properties\Resources.resx" />
+    <msb:File Include="Properties\Settings.settings" />
+    <msb:File Include="Properties\AssemblyInfo.cs" />
+    <msb:File Include="Properties\Resources.Designer.cs" />
+    <msb:File Include="Properties\Settings.Designer.cs" />
+    <msb:File Include="packages.config" />
+    <msb:File Include="app.config" />
+    <msb:File Include="ScriptMain.cs" />
+  </msb:ItemGroup>
+</c:Project>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
 //
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_eb983cc4cef94152a617c7d6b7eaeff1")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_eb983cc4cef94152a617c7d6b7eaeff1")]
+[assembly: AssemblyCopyright("Copyright @  2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
 
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_eb983cc4cef94152a617c7d6b7eaeff1.Properties.Settings.get_Default():ST_eb983cc4cef94152a617c7d6b7eaeff1.Properties.Sett" +
-    "ings")]
-
-namespace ST_eb983cc4cef94152a617c7d6b7eaeff1.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Settings.settings"
             Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
@@ -31155,7 +31155,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="MYSQL - Script llenar tabla pivote venta"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -31164,36 +31164,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           VSTAMinorVersion="0"
           Language="CSharp"
           ReadOnlyVariables="User::Delimitador,User::Extension_venta,User::FolderError,User::FolderOrigen_MySql,User::TablaDestino_venta">
-          <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_1c5ae0f2de5448189d04b5e8387fa1f4")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_1c5ae0f2de5448189d04b5e8387fa1f4")]
-[assembly: AssemblyCopyright("Copyright @  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="ST_1c5ae0f2de5448189d04b5e8387fa1f4.csproj"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -31420,6 +31390,41 @@ using System.Runtime.CompilerServices;
   </resheader>
 </root>]]></ProjectItem>
           <ProjectItem
+            Name="packages.config"
+            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="Portable.BouncyCastle" version="1.9.0" targetFramework="net472" />
+</packages>]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_1c5ae0f2de5448189d04b5e8387fa1f4.Properties.Settings.get_Default():ST_1c5ae0f2de5448189d04b5e8387fa1f4.Properties.Sett" +
+    "ings")]
+
+namespace ST_1c5ae0f2de5448189d04b5e8387fa1f4.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
+          <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
 /* The Script Task allows you to perform virtually any operation that can be accomplished in
@@ -31622,40 +31627,35 @@ namespace ST_1c5ae0f2de5448189d04b5e8387fa1f4
   </msb:ItemGroup>
 </c:Project>]]></ProjectItem>
           <ProjectItem
-            Name="packages.config"
-            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
-<packages>
-  <package id="Portable.BouncyCastle" version="1.9.0" targetFramework="net472" />
-</packages>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
 //
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_1c5ae0f2de5448189d04b5e8387fa1f4")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_1c5ae0f2de5448189d04b5e8387fa1f4")]
+[assembly: AssemblyCopyright("Copyright @  2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
 
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_1c5ae0f2de5448189d04b5e8387fa1f4.Properties.Settings.get_Default():ST_1c5ae0f2de5448189d04b5e8387fa1f4.Properties.Sett" +
-    "ings")]
-
-namespace ST_1c5ae0f2de5448189d04b5e8387fa1f4.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Settings.settings"
             Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
@@ -31898,7 +31898,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="MYSQL - Script vaciar tablas pivotes"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -31908,35 +31908,109 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           Language="CSharp"
           ReadOnlyVariables="User::FolderError">
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_3bfb45b5dc304120b8e34888427a1047")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_3bfb45b5dc304120b8e34888427a1047")]
-[assembly: AssemblyCopyright("Copyright @  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="ST_3bfb45b5dc304120b8e34888427a1047.csproj"
+            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectTypeGuids>{30D016F9-3734-4E33-A861-5E7D899E18F3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CD133B5D-7652-46CA-A999-A2A95AA85E70}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ST_3bfb45b5dc304120b8e34888427a1047</RootNamespace>
+    <AssemblyName>ST_3bfb45b5dc304120b8e34888427a1047</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
+    <TargetFrameworkProfile></TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>C:\Users\F Magdiel\AppData\Local\Temp\Vsta\SSIS_ST160\VstaJvA9ns7GCU68b63rLCNJqw\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>C:\Users\F Magdiel\Desktop\SS2-Proyecto1_201801449\PROYECTO1_FASE1\PROYECTO1_FASE1\bin\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>C:\Users\F Magdiel\AppData\Local\Temp\Vsta\SSIS_ST160\VstaJvA9ns7GCU68b63rLCNJqw\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>C:\Users\F Magdiel\AppData\Local\Temp\Vsta\SSIS_ST160\VstaJvA9ns7GCU68b63rLCNJqw\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptMain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <!-- Include the build rules for a C# project.-->
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{30D016F9-3734-4E33-A861-5E7D899E18F3}">
+        <ProjectProperties HostName="VSTAHostName" HostPackage="{B3A685AA-7EAF-4BC6-9940-57959FA5AC07}" ApplicationType="usd" Language="cs" TemplatesPath="" />
+        <Host Name="ScriptTask" />
+        <ProjectClient>
+          <HostIdentifier>SSIS_ST160</HostIdentifier>
+        </ProjectClient>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -32057,14 +32131,40 @@ using System.Runtime.CompilerServices;
   </resheader>
 </root>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="packages.config"
+            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="Portable.BouncyCastle" version="1.9.0" targetFramework="net472" />
+</packages>]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_3bfb45b5dc304120b8e34888427a1047.Properties.Settings.get_Default():ST_3bfb45b5dc304120b8e34888427a1047.Properties.Sett" +
+    "ings")]
+
+namespace ST_3bfb45b5dc304120b8e34888427a1047.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
           <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -32250,144 +32350,44 @@ namespace ST_3bfb45b5dc304120b8e34888427a1047
   </msb:ItemGroup>
 </c:Project>]]></ProjectItem>
           <ProjectItem
-            Name="packages.config"
-            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
-<packages>
-  <package id="Portable.BouncyCastle" version="1.9.0" targetFramework="net472" />
-</packages>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
 //
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_3bfb45b5dc304120b8e34888427a1047")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_3bfb45b5dc304120b8e34888427a1047")]
+[assembly: AssemblyCopyright("Copyright @  2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
 
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_3bfb45b5dc304120b8e34888427a1047.Properties.Settings.get_Default():ST_3bfb45b5dc304120b8e34888427a1047.Properties.Sett" +
-    "ings")]
-
-namespace ST_3bfb45b5dc304120b8e34888427a1047.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
-            Name="ST_3bfb45b5dc304120b8e34888427a1047.csproj"
-            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup>
-    <ProjectTypeGuids>{30D016F9-3734-4E33-A861-5E7D899E18F3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>8.0.30703</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{CD133B5D-7652-46CA-A999-A2A95AA85E70}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ST_3bfb45b5dc304120b8e34888427a1047</RootNamespace>
-    <AssemblyName>ST_3bfb45b5dc304120b8e34888427a1047</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
-    <FileAlignment>512</FileAlignment>
-    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
-    <TargetFrameworkProfile></TargetFrameworkProfile>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <Optimize>false</Optimize>
-    <OutputPath>.\bin\Debug\</OutputPath>
-    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
-    <DebugSymbols>false</DebugSymbols>
-    <Optimize>true</Optimize>
-    <OutputPath>.\bin\Release\</OutputPath>
-    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
-    <DefineConstants>TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <ItemGroup>
-    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-      <HintPath>C:\Users\F Magdiel\AppData\Local\Temp\Vsta\SSIS_ST160\VstaJvA9ns7GCU68b63rLCNJqw\packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
-    </Reference>
-    <Reference Include="MySql.Data">
-      <HintPath>C:\Users\F Magdiel\Desktop\SS2-Proyecto1_201801449\PROYECTO1_FASE1\PROYECTO1_FASE1\bin\MySql.Data.DLL</HintPath>
-    </Reference>
-    <Reference Include="System" />
-    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-      <HintPath>C:\Users\F Magdiel\AppData\Local\Temp\Vsta\SSIS_ST160\VstaJvA9ns7GCU68b63rLCNJqw\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Configuration" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Management" />
-    <Reference Include="System.Numerics" />
-    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>C:\Users\F Magdiel\AppData\Local\Temp\Vsta\SSIS_ST160\VstaJvA9ns7GCU68b63rLCNJqw\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Transactions" />
-    <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Xml" />
-    <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-  </ItemGroup>
-  <ItemGroup>
-    <AppDesigner Include="Properties\" />
-    <Compile Include="Properties\AssemblyInfo.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-    <None Include="app.config" />
-    <None Include="packages.config" />
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-    </Compile>
-    <Compile Include="ScriptMain.cs">
-      <SubType>Code</SubType>
-    </Compile>
-  </ItemGroup>
-  <!-- Include the build rules for a C# project.-->
-  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ProjectExtensions>
-    <VisualStudio>
-      <FlavorProperties GUID="{30D016F9-3734-4E33-A861-5E7D899E18F3}">
-        <ProjectProperties HostName="VSTAHostName" HostPackage="{B3A685AA-7EAF-4BC6-9940-57959FA5AC07}" ApplicationType="usd" Language="cs" TemplatesPath="" />
-        <Host Name="ScriptTask" />
-        <ProjectClient>
-          <HostIdentifier>SSIS_ST160</HostIdentifier>
-        </ProjectClient>
-      </FlavorProperties>
-    </VisualStudio>
-  </ProjectExtensions>
-</Project>]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -32594,7 +32594,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="SQLSERVER - Script llenar tabla pivote compra"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -32809,14 +32809,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
   </resheader>
 </root>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_3d14d7f4426e471e83ba12b16ed359c3")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_3d14d7f4426e471e83ba12b16ed359c3")]
+[assembly: AssemblyCopyright("Copyright @  2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -33029,35 +33050,14 @@ namespace ST_3d14d7f4426e471e83ba12b16ed359c3.Properties {
     }
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_3d14d7f4426e471e83ba12b16ed359c3")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_3d14d7f4426e471e83ba12b16ed359c3")]
-[assembly: AssemblyCopyright("Copyright @  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -33291,7 +33291,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="SQLSERVER - Script llenar tabla pivote venta"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -33506,14 +33506,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
   </resheader>
 </root>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_61997004db8e4ec19f2ba455065290ea")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_61997004db8e4ec19f2ba455065290ea")]
+[assembly: AssemblyCopyright("Copyright @  2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -33727,35 +33748,14 @@ namespace ST_61997004db8e4ec19f2ba455065290ea.Properties {
     }
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_61997004db8e4ec19f2ba455065290ea")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_61997004db8e4ec19f2ba455065290ea")]
-[assembly: AssemblyCopyright("Copyright @  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -33989,7 +33989,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="SQLSERVER - Script vaciar tablas pivotes"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -33999,14 +33999,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           Language="CSharp"
           ReadOnlyVariables="User::FolderError">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_0d2b79c53c154418bdaaf3bc5a87d59d")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_0d2b79c53c154418bdaaf3bc5a87d59d")]
+[assembly: AssemblyCopyright("Copyright @  2023")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -34126,6 +34147,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
 </root>]]></ProjectItem>
+          <ProjectItem
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_0d2b79c53c154418bdaaf3bc5a87d59d.Properties.Settings.get_Default():ST_0d2b79c53c154418bdaaf3bc5a87d59d.Properties.Sett" +
+    "ings")]
+
+namespace ST_0d2b79c53c154418bdaaf3bc5a87d59d.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
           <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -34264,6 +34314,26 @@ namespace ST_0d2b79c53c154418bdaaf3bc5a87d59d
 	}
 }]]></ProjectItem>
           <ProjectItem
+            Name="Project"
+            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
+  <msb:PropertyGroup>
+    <msb:CodeName>ST_0d2b79c53c154418bdaaf3bc5a87d59d</msb:CodeName>
+    <msb:Language>msBuild</msb:Language>
+    <msb:DisplayName>ST_0d2b79c53c154418bdaaf3bc5a87d59d</msb:DisplayName>
+    <msb:ProjectId>{21FF786C-CA53-423C-B51D-5675BD99C965}</msb:ProjectId>
+  </msb:PropertyGroup>
+  <msb:ItemGroup>
+    <msb:Project Include="ST_0d2b79c53c154418bdaaf3bc5a87d59d.csproj" />
+    <msb:File Include="ScriptMain.cs" />
+    <msb:File Include="Properties\Settings.settings" />
+    <msb:File Include="Properties\AssemblyInfo.cs" />
+    <msb:File Include="Properties\Resources.resx" />
+    <msb:File Include="Properties\Resources.Designer.cs" />
+    <msb:File Include="Properties\Settings.Designer.cs" />
+  </msb:ItemGroup>
+</c:Project>]]></ProjectItem>
+          <ProjectItem
             Name="ST_0d2b79c53c154418bdaaf3bc5a87d59d.csproj"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
@@ -34350,84 +34420,14 @@ namespace ST_0d2b79c53c154418bdaaf3bc5a87d59d
   </ProjectExtensions>
 </Project>]]></ProjectItem>
           <ProjectItem
-            Name="Project"
-            Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
-<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
-  <msb:PropertyGroup>
-    <msb:CodeName>ST_0d2b79c53c154418bdaaf3bc5a87d59d</msb:CodeName>
-    <msb:Language>msBuild</msb:Language>
-    <msb:DisplayName>ST_0d2b79c53c154418bdaaf3bc5a87d59d</msb:DisplayName>
-    <msb:ProjectId>{21FF786C-CA53-423C-B51D-5675BD99C965}</msb:ProjectId>
-  </msb:PropertyGroup>
-  <msb:ItemGroup>
-    <msb:Project Include="ST_0d2b79c53c154418bdaaf3bc5a87d59d.csproj" />
-    <msb:File Include="ScriptMain.cs" />
-    <msb:File Include="Properties\Settings.settings" />
-    <msb:File Include="Properties\AssemblyInfo.cs" />
-    <msb:File Include="Properties\Resources.resx" />
-    <msb:File Include="Properties\Resources.Designer.cs" />
-    <msb:File Include="Properties\Settings.Designer.cs" />
-  </msb:ItemGroup>
-</c:Project>]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_0d2b79c53c154418bdaaf3bc5a87d59d.Properties.Settings.get_Default():ST_0d2b79c53c154418bdaaf3bc5a87d59d.Properties.Sett" +
-    "ings")]
-
-namespace ST_0d2b79c53c154418bdaaf3bc5a87d59d.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
-          <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_0d2b79c53c154418bdaaf3bc5a87d59d")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_0d2b79c53c154418bdaaf3bc5a87d59d")]
-[assembly: AssemblyCopyright("Copyright @  2023")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -35300,7 +35300,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           Id="Package\Data Flow Task PROCESO ETL\Conditional Split 5"
           TopLeft="1788.52510731788,779.801251105762" />
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output2]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output10]"
           TopLeft="1584.93862633304,405.660367151776">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35322,7 +35322,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output1]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output11]"
           TopLeft="1067.23266679286,1084.53709761069">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35344,7 +35344,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output12]"
           TopLeft="1288.32069981698,1083.47546229335">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35454,7 +35454,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull6]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull]"
           TopLeft="229.9811261375,793.735831638552">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35478,7 +35478,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull5]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull1]"
           TopLeft="1869.52038929554,821.461628464253">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35502,7 +35502,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull4]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull3]"
           TopLeft="1388.60533149281,813.527038532973">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35526,7 +35526,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull3]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull2]"
           TopLeft="449.328587419271,790.69936489655">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35550,7 +35550,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull2]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull6]"
           TopLeft="1617.02040841588,815.260371817703">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35574,7 +35574,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull1]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull4]"
           TopLeft="687.245236069903,792.43269818128">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35598,7 +35598,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[NotNull5]"
           TopLeft="2083.61628417574,819.898103219548">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35848,7 +35848,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 11]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 1]"
           TopLeft="476.309417767795,589.471680191328">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -35882,7 +35882,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 1]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Multicast Output 11]"
           TopLeft="1585.88045026396,601.477977336177">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36180,7 +36180,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 13]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 11]"
           TopLeft="1281.99051549187,1003.3270332109">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36202,7 +36202,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 12]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 1]"
           TopLeft="806.481100460644,1000.49369726513">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36224,7 +36224,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 11]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 13]"
           TopLeft="1585.00309120547,300.793703425615">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36246,7 +36246,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 1]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Union All Output 12]"
           TopLeft="518.113190848872,267.660369225268">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36268,7 +36268,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output13]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output9]"
           TopLeft="955.98109957857,694.35847512731">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36302,7 +36302,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output12]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output1]"
           TopLeft="225.915088743534,888.660358968771">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36324,7 +36324,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output11]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output2]"
           TopLeft="1386.34275208767,908.643702532528">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36358,7 +36358,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output10]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output3]"
           TopLeft="686.314417450185,892.099362053251">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36392,7 +36392,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output9]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output4]"
           TopLeft="452.981101785817,891.232695410886">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36426,7 +36426,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output8]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output5]"
           TopLeft="1614.00625662059,911.460369120214">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36460,7 +36460,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output7]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output6]"
           TopLeft="1157.55972754043,700.760367443396">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36494,7 +36494,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output6]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output13]"
           TopLeft="516.207530939354,378.660365230632">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36516,7 +36516,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output5]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output]"
           TopLeft="1867.87101876274,913.328292554939">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36538,7 +36538,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output4]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output8]"
           TopLeft="804.863583109836,1075.69369784837">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -36560,7 +36560,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output3]"
+          Id="Package\Data Flow Task PROCESO ETL.Paths[Sort Output7]"
           TopLeft="2080.77037329881,918.524516564165">
           <EdgeLayout.Curve>
             <mssgle:Curve
